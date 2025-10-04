@@ -4,9 +4,6 @@ on:
   push:
     paths:
       - "portfolio-raskoti.json"
-      - "index_template.html"
-      - "resume_template.html"
-      - "generate_portfolio.py"
 
 jobs:
   build:
