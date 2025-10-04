@@ -12,7 +12,7 @@
   "social_links": [
     {
       "label": "Raskotimgr.com",
-      "url": "https://raskotimagar.com",
+      "url": "https://raskotimgr.pythonanywhere.com",
       "svg_path": "img/globe.svg"
     },
     {
